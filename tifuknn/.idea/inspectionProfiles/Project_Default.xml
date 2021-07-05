@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="streaming_py.tifuknn_incremental.lit" />
+          <option value="streaming_py.tifuknn_incremental.collect_list" />
+          <option value="streaming_py.tifuknn_incremental.col" />
+          <option value="streaming_py.tifuknn_incremental.collect_set" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
