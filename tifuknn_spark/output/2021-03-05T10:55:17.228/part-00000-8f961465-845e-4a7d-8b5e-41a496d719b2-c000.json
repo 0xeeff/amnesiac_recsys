@@ -1,1 +1,0 @@
-{"customerId":1,"rg":0.7,"rb":0.9,"groupSize":2,"countOfBaskets":5,"countOfGroups":3,"lastGroupOfBaskets":[{"customerId":1,"orderId":4,"basketOneHot":[0.0,0.0,1.0,1.0],"isDeletion":false}],"lastGroupVector":[0.0,0.0,1.0,1.0],"userVector":[0.2951666666666666,0.37683333333333335,0.6051666666666666,0.52]}
